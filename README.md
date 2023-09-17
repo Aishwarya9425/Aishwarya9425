@@ -31,5 +31,14 @@
 ## My wakatime usage
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   12 hrs 28 mins  █████████████████████░░░░   84.28 %
+JSON         1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+CSS          59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Ezhil        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
+
 <!--END_SECTION:waka-->
 
