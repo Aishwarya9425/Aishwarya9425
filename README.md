@@ -5,7 +5,8 @@
 <img width="2000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <h1 align="center">
-  I'm Aishwarya with 6+ years hands on experience in MERN stack + DevOps , a bit stubborn, a lot curious ❗ 🙃
+  Hey there👋 
+  I'm Aishwarya with 7+ years hands on experience in MERN stack + DevOps , a bit stubborn, a lot curious ❗ 🙃
 </h1>
 
 <img width="2000" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
